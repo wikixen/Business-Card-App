@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Benny\'s Business Card</string>
+    <string name="name">Benny Hernandez</string>
+    <string name="position"><![CDATA[Fullstack Android & System Engineer]]></string>
+    <string name="phoneText">+1(908)-290-2899</string>
+    <string name="github">\@wikixen</string>
+    <string name="email">Bennylopezhernandez0@gmail.com</string>
+</resources>
